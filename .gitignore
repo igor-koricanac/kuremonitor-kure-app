@@ -34,7 +34,7 @@ dist/
 artifacts/
 work/
 ci/
-*.zip
+kuremonitor-kure-app
 
 # e2e test directories
 /test-results/
