@@ -1,6 +1,6 @@
 {
   "name": "kure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "build": "webpack -c ./.config/webpack/webpack.config.ts --env production",
     "dev": "webpack -w -c ./.config/webpack/webpack.config.ts --env development",
@@ -12,8 +12,8 @@
     "e2e": "playwright test",
     "server": "docker compose up --build",
     "sign": "sign-plugin",
-    "package": "npm run build && rm -rf kuremonitor-kure-app && cp -r dist kuremonitor-kure-app && python3 -m zipfile -c kuremonitor-kure-app-1.0.0.zip kuremonitor-kure-app && rm -rf kuremonitor-kure-app",
-    "validate": "npx @grafana/plugin-validator@latest kuremonitor-kure-app-1.0.0.zip"
+    "package": "npm run build && rm -rf kuremonitor-kure-app && cp -r dist kuremonitor-kure-app && python3 -m zipfile -c kuremonitor-kure-app-1.0.1.zip kuremonitor-kure-app && rm -rf kuremonitor-kure-app",
+    "validate": "npx @grafana/plugin-validator@latest kuremonitor-kure-app-1.0.1.zip"
   },
   "author": "Igor Koricanac",
   "license": "Apache-2.0",
