@@ -32,6 +32,10 @@
       {
         "name": "Source Code",
         "url": "https://github.com/igor-koricanac/kure-monitor"
+      },
+      {
+        "name": "Sponsor",
+        "url": "https://github.com/sponsors/igor-koricanac"
       }
     ],
     "version": "%VERSION%",
