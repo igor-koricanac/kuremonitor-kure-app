@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.0.2 (2026-07-31)
+
+### Changed
+- Updated official plugin documentation, repository setup scripts, and metadata URLs to point to the new custom domain: `https://kuremonitor.com`.
+
+## 1.0.1 (2026-07-28)
+
+### Fixed
+- Fixed an issue where accidentally tracked build artifacts were breaking the CI packaging pipeline.
+- Pinned `build-plugin` action to a stable `v1.2.0` release.
+
 ## 1.0.0 (2026-07-25)
 
 ### Added
