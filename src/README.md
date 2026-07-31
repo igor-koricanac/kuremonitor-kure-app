@@ -61,7 +61,7 @@
 
 ## 📚 Documentation & Support
 
-- **Official Documentation & Setup Guide:** [https://igor-koricanac.github.io/kure-monitor/](https://igor-koricanac.github.io/kure-monitor/)
+- **Official Documentation & Setup Guide:** [https://kuremonitor.com/](https://kuremonitor.com/)
 - **GitHub Repository:** [https://github.com/igor-koricanac/kure-monitor](https://github.com/igor-koricanac/kure-monitor)
 - **Issue Tracker:** [https://github.com/igor-koricanac/kure-monitor/issues](https://github.com/igor-koricanac/kure-monitor/issues)
 

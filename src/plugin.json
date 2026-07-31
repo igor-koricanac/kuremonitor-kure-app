@@ -8,7 +8,7 @@
     "description": "Proactive Kubernetes failure monitoring and intelligent AI assistant for real-time pod troubleshooting and root-cause analysis.",
     "author": {
       "name": "Igor Koricanac",
-      "url": "https://igor-koricanac.github.io/kure-monitor/"
+      "url": "https://kuremonitor.com/"
     },
     "logos": {
       "small": "img/logo.svg",
@@ -27,7 +27,7 @@
     "links": [
       {
         "name": "Documentation",
-        "url": "https://igor-koricanac.github.io/kure-monitor/"
+        "url": "https://kuremonitor.com/"
       },
       {
         "name": "Source Code",
